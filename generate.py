@@ -68,8 +68,6 @@ FEEDS = [
     {"name": "雷科技", "url": "https://www.leiphone.com/feed"},
     {"name": "少数派", "url": "https://sspai.com/feed"},
     {"name": "掘金", "url": "https://juejin.cn/rss"},
-    {"name": "人民网·IT", "url": "http://www.people.com.cn/rss/it.xml"},
-    {"name": "人民网·财经", "url": "http://www.people.com.cn/rss/finance.xml"},
 ]
 
 CATEGORIES = ["硬件与芯片", "模型与产品", "游戏AI", "机器人具身智能", "行业政策", "资本与市场"]
@@ -115,7 +113,7 @@ def load_config():
 
 def fetch(url):
     req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "*/*"})
-    with urllib.request.urlopen(req, timeout=20, context=_ssl_context()) as r:
+    with urllib.request.urlopen(req, timeout=12, context=_ssl_context()) as r:
         return r.read().decode("utf-8", errors="ignore")
 
 
