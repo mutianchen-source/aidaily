@@ -1,0 +1,5 @@
+config.json
+refresh.log
+data/config.js
+.DS_Store
+__pycache__/

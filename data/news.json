@@ -1,0 +1,986 @@
+{
+  "date": "2026-08-28",
+  "updatedAt": "2026-08-28 08:13",
+  "news": [
+    {
+      "category": "硬件与芯片",
+      "title": "苹果 Mac mini M6 发布：两年涨 2500 块，AI 税反噬「龙虾神机」",
+      "summary": "苹果发布新款 Mac mini，价格大涨 2500 元，为 AI 场景定制。",
+      "detail": "苹果发布 M6 芯片版 Mac mini，起售价较前代上涨 2500 元，被指为 AI 功能加收“AI 税”。新机支持 Thread 智能家居协议，预装 macOS 27 系统，性能与能效针对本地大模型推理优化。该事件获多个来源交叉报道。",
+      "source": "极客公园",
+      "date": "08-28",
+      "url": "http://www.geekpark.net/news/369354",
+      "hot": true
+    },
+    {
+      "category": "硬件与芯片",
+      "title": "雷鸟 iO 智能眼镜官宣搭载恒玄科技 BES2800 芯片：6nm 工艺，集成双模蓝牙和低功耗 Wi-Fi 6",
+      "summary": "雷鸟 iO 智能眼镜搭载恒玄 BES2800 芯片，主打低功耗连接。",
+      "detail": "雷鸟 iO 智能眼镜官宣采用恒玄科技 BES2800 芯片，基于 6nm 工艺，集成双模蓝牙与低功耗 Wi-Fi 6，为 AI 交互与实时信息显示提供算力与连接基础。",
+      "source": "IT之家",
+      "date": "08-28",
+      "url": "https://www.ithome.com/0/995/309.htm",
+      "hot": false
+    },
+    {
+      "category": "硬件与芯片",
+      "title": "英特尔：14A 缺陷密度曲线是 22nm 以来最佳表现，2027 下半年风险试产",
+      "summary": "英特尔 14A 工艺缺陷密度达 22nm 以来最佳，2027 年试产。",
+      "detail": "英特尔表示 14A 工艺缺陷密度曲线为 22nm 以来最佳表现，计划 2027 年下半年风险试产。该工艺面向高性能计算与 AI 芯片，是英特尔重回先进制程竞争的关键节点。",
+      "source": "IT之家",
+      "date": "08-28",
+      "url": "https://www.ithome.com/0/995/300.htm",
+      "hot": false
+    },
+    {
+      "category": "硬件与芯片",
+      "title": "三星 Galaxy S26 FE 手机发布：Exynos 2500 处理器、4900mAh 电池，699.99 美元起",
+      "summary": "三星 Galaxy S26 FE 发布，搭载 Exynos 2500 处理器。",
+      "detail": "三星发布 Galaxy S26 FE，配备 Exynos 2500 处理器与 4900mAh 电池，起售价 699.99 美元。该机型定位中高端，强化 AI 影像与端侧智能体验。",
+      "source": "IT之家",
+      "date": "08-28",
+      "url": "https://www.ithome.com/0/995/281.htm",
+      "hot": false
+    },
+    {
+      "category": "硬件与芯片",
+      "title": "SK海力士考虑与日本存储行业加深合作关系",
+      "summary": "SK 海力士考虑与日本存储行业加深合作。",
+      "detail": "SK 海力士正评估与日本存储产业深化合作的可能性，涉及先进封装与 HBM 供应链布局，以应对 AI 算力需求带动的存储市场扩张。",
+      "source": "36氪快讯",
+      "date": "08-28",
+      "url": "https://www.36kr.com/newsflashes/3958410475093129",
+      "hot": false
+    },
+    {
+      "category": "硬件与芯片",
+      "title": "OpenAI 自研「辣椒芯片」首测超英伟达，会让 ChatGPT 更便宜吗？",
+      "summary": "OpenAI 自研芯片首测性能超英伟达，或降低 ChatGPT 成本。",
+      "detail": "OpenAI 自研“辣椒芯片”在首轮测试中性能超越英伟达同类产品，若量产成功，有望显著降低 ChatGPT 推理成本，并减少对单一供应商依赖。",
+      "source": "爱范儿",
+      "date": "08-28",
+      "url": "https://www.ifanr.com/1676738?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "hot": false
+    },
+    {
+      "category": "硬件与芯片",
+      "title": "苹果 M6 Mac mini 细节：支持 Thread 智能家居协议，预装 macOS 27 系统",
+      "summary": "IT之家 8 月 28 日消息，科技媒体 9to5Mac 昨日（8 月 27 日）发布博文，针对近期有购买苹果 M6 Mac mini 的用户，分享了 3 个苹…",
+      "detail": "IT之家 8 月 28 日消息，科技媒体 9to5Mac 昨日（8 月 27 日）发布博文，针对近期有购买苹果 M6 Mac mini 的用户，分享了 3 个苹果并未在新闻稿中提及的细节。 内存带宽 根据苹果官方公布的技术规格，基础版 16GB 统一内存的带宽为 153GB/s；当用户将内存升级至 24GB 或 32G…",
+      "source": "IT之家",
+      "date": "08-28",
+      "url": "https://www.ithome.com/0/995/348.htm",
+      "hot": false
+    },
+    {
+      "category": "硬件与芯片",
+      "title": "奇瑞风云 T7 上市 24 小时订单突破 23188 台：全系 600km 续航，抢先置换价 9.49 万-11.59 万元",
+      "summary": "IT之家 8 月 27 日消息，风云新能源官方微博今日宣布， 奇瑞风云 T7 上市 24 小时订单突破 23188 台 。 据IT之家此前报道， 奇瑞风云 T7…",
+      "detail": "IT之家 8 月 27 日消息，风云新能源官方微博今日宣布， 奇瑞风云 T7 上市 24 小时订单突破 23188 台 。 据IT之家此前报道， 奇瑞风云 T7 已于昨日正式上市 ，定位全球品质纯电 SUV，搭载犀牛电池，标配续航 600km， 抢先置换价 9.49 万-11.59 万元 。 600km 悦享版：上市指…",
+      "source": "IT之家",
+      "date": "08-28",
+      "url": "https://www.ithome.com/0/995/314.htm",
+      "hot": false
+    },
+    {
+      "category": "硬件与芯片",
+      "title": "英伟达发言人：人工智能生态开放算力访问权限的新商业模式目前仍在施行",
+      "summary": "英伟达发言人表示，今年7月推出的、向快速增长的人工智能生态开放算力访问权限的新商业模式目前仍在施行。（新浪财经）",
+      "detail": "英伟达发言人表示，今年7月推出的、向快速增长的人工智能生态开放算力访问权限的新商业模式目前仍在施行。（新浪财经）",
+      "source": "36氪快讯",
+      "date": "08-28",
+      "url": "https://www.36kr.com/newsflashes/3958414686518405",
+      "hot": false
+    },
+    {
+      "category": "硬件与芯片",
+      "title": "Hark与英伟达达成多年战略合作，将采用Vera Rubin平台推进个性化AI",
+      "summary": "8月27日，美国人工智能初创公司Hark宣布与英伟达达成多年战略合作，双方将围绕个性化智能体AI展开技术合作，并基于英伟达下一代Vera Rubin平台部署吉瓦…",
+      "detail": "8月27日，美国人工智能初创公司Hark宣布与英伟达达成多年战略合作，双方将围绕个性化智能体AI展开技术合作，并基于英伟达下一代Vera Rubin平台部署吉瓦级计算能力。（界面）",
+      "source": "36氪快讯",
+      "date": "08-28",
+      "url": "https://www.36kr.com/newsflashes/3958404213472643",
+      "hot": false
+    },
+    {
+      "category": "硬件与芯片",
+      "title": "AI 开始给自己造芯了，OpenAI 只用了九个月",
+      "summary": "造芯片，是大模型公司的必备素养 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "detail": "造芯片，是大模型公司的必备素养 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": "爱范儿",
+      "date": "08-28",
+      "url": "https://www.ifanr.com/1676824?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "hot": false
+    },
+    {
+      "category": "硬件与芯片",
+      "title": "像素级对标？智谱、Kimi 底层参数「撞衫」背后，藏着线性注意力的黄金窗口",
+      "summary": "国产大模型内卷到算子底层。 作者丨高允毅 编辑丨岑 峰 昨晚，智谱 AI 认领了最近一周在 OpenRouter 盲测榜上风头最盛的“牛来”模型，正式命名GLM…",
+      "detail": "国产大模型内卷到算子底层。 作者丨高允毅 编辑丨岑 峰 昨晚，智谱 AI 认领了最近一周在 OpenRouter 盲测榜上风头最盛的“牛来”模型，正式命名GLM-5.3-Flash。 这款上线首日就登顶 OpenRouter 调用量榜单，刷新全网长文本性价比斩杀线的国产模型，在底层架构上展现出“集百家之长”的特质。 它…",
+      "source": "雷科技",
+      "date": "08-28",
+      "url": "https://www.leiphone.com/category/yanxishe/1zYtnZ1hPi0jc5Ud.html",
+      "hot": false
+    },
+    {
+      "category": "硬件与芯片",
+      "title": "CockroachDB 对照：Range + Raft 的另一种 HTAP 落地",
+      "summary": "CockroachDB 用 Range、Leaseholder 与 Raft leader 分层，事务走 Percolator 式路径；TiKV/TiDB 则是…",
+      "detail": "CockroachDB 用 Range、Leaseholder 与 Raft leader 分层，事务走 Percolator 式路径；TiKV/TiDB 则是存储计算分离。本文对照两种架构的关键工程",
+      "source": "掘金",
+      "date": "08-28",
+      "url": "https://juejin.cn/post/7678586059051958299",
+      "hot": false
+    },
+    {
+      "category": "硬件与芯片",
+      "title": "从输入 juejin.cn 到看到页面：DNS、Nginx、服务器集群与 CDN 到底在做什么？",
+      "summary": "前面两篇，我们一直站在数据库的视角设计一个博客系统： 但数据库设计完，并不代表用户就能使用这个网站。 一个真正上线的 Web 系统，还需要解决另一个问题： 这个…",
+      "detail": "前面两篇，我们一直站在数据库的视角设计一个博客系统： 但数据库设计完，并不代表用户就能使用这个网站。 一个真正上线的 Web 系统，还需要解决另一个问题： 这个问题会牵涉： 这些名词第一次一起出现时非",
+      "source": "掘金",
+      "date": "08-28",
+      "url": "https://juejin.cn/post/7678618274795601971",
+      "hot": false
+    },
+    {
+      "category": "模型与产品",
+      "title": "谷歌推出 Gemini Omni 1.1 Flash 视频生成 AI 模型，最高 4K 分辨率",
+      "summary": "谷歌推出 Gemini Omni 1.1 Flash 视频生成模型，支持 4K。",
+      "detail": "谷歌发布 Gemini Omni 1.1 Flash 视频生成 AI 模型，最高支持 4K 分辨率输出，面向创意与影视制作场景，提升视频生成效率与画质。",
+      "source": "IT之家",
+      "date": "08-28",
+      "url": "https://www.ithome.com/0/995/352.htm",
+      "hot": false
+    },
+    {
+      "category": "模型与产品",
+      "title": "Adobe Photoshop 推出“AI 辅助编辑器”测试版：基于提示词的全新图像编辑模式",
+      "summary": "Adobe Photoshop 推出基于提示词的 AI 辅助编辑器测试版。",
+      "detail": "Adobe Photoshop 上线“AI 辅助编辑器”测试版，用户可通过自然语言提示词完成图像编辑，如调整构图、替换元素等，降低专业设计门槛。",
+      "source": "IT之家",
+      "date": "08-28",
+      "url": "https://www.ithome.com/0/995/305.htm",
+      "hot": false
+    },
+    {
+      "category": "模型与产品",
+      "title": "谷歌推出全球首个双盲 AI 评估技术，基于加密环境保障基准测试公正性",
+      "summary": "谷歌推出全球首个双盲 AI 评估技术，保障基准测试公正。",
+      "detail": "谷歌发布基于加密环境的双盲 AI 评估技术，可防止模型在基准测试中“作弊”，确保评估结果客观公正，为行业树立新标准。",
+      "source": "IT之家",
+      "date": "08-28",
+      "url": "https://www.ithome.com/0/995/289.htm",
+      "hot": false
+    },
+    {
+      "category": "模型与产品",
+      "title": "商汤大装置支撑智谱 GLM-5.3-Flash上线，国产异构助力前沿智能进入普惠时代",
+      "summary": "商汤大装置支撑智谱 GLM-5.3-Flash 上线，推动国产算力普惠。",
+      "detail": "商汤大装置为智谱 GLM-5.3-Flash 提供异构算力支撑，该模型已正式上线，标志着国产 AI 基础设施与模型生态协同进入普惠阶段。",
+      "source": "雷科技",
+      "date": "08-28",
+      "url": "https://www.leiphone.com/category/ai/W9ofyn3UJRYRVMC0.html",
+      "hot": false
+    },
+    {
+      "category": "模型与产品",
+      "title": "阿里发布全新Qoder ，面向所有人的智能体工作台来了",
+      "summary": "阿里发布 Qoder 智能体工作台，面向所有人开放。",
+      "detail": "阿里发布全新 Qoder 智能体工作台，集成多种 AI 能力，支持用户通过自然语言构建和调用智能体，降低 AI 应用开发门槛。",
+      "source": "雷科技",
+      "date": "08-28",
+      "url": "https://www.leiphone.com/category/industrynews/KvKr1b6gPOwqZW3f.html",
+      "hot": false
+    },
+    {
+      "category": "模型与产品",
+      "title": "全新架构，极致性价比！阿里千问Qwen3.8-Flash发布并开源",
+      "summary": "阿里千问 Qwen3.8-Flash 发布并开源，生成速度提升 100%。",
+      "detail": "阿里千问发布 Qwen3.8-Flash 模型，采用全新架构，生成速度提升 100%，Token 消耗减少 75%，并同步开源，主打极致性价比。",
+      "source": "雷科技",
+      "date": "08-28",
+      "url": "https://www.leiphone.com/category/industrynews/VOpEHzb65rOMv793.html",
+      "hot": false
+    },
+    {
+      "category": "模型与产品",
+      "title": "OpenAI 将向印度 ChatGPT 免费及 Go 套餐用户投放广告",
+      "summary": "IT之家 8 月 27 日消息，OpenAI 宣布，即日起将在印度 向 ChatGPT Free 和 Go 套餐用户投放广告 。本月早些时候，OpenAI 修改…",
+      "detail": "IT之家 8 月 27 日消息，OpenAI 宣布，即日起将在印度 向 ChatGPT Free 和 Go 套餐用户投放广告 。本月早些时候，OpenAI 修改了服务条款，明确说明用户在使用 ChatGPT 时可能看到广告。 今年 2 月的数据显示，ChatGPT 在印度的每周活跃用户已超过 1 亿，其中相当一部分使用…",
+      "source": "IT之家",
+      "date": "08-28",
+      "url": "https://www.ithome.com/0/995/296.htm",
+      "hot": false
+    },
+    {
+      "category": "模型与产品",
+      "title": "已运营 21 年：亚马逊将于 9 月 30 日关闭众包平台 Mechanical Turk",
+      "summary": "IT之家 8 月 27 日消息，亚马逊发文，宣布将于 9 月 30 日关闭旗下已有 21 年历史的众包平台 Mechanical Turk（MTurk）。 公开…",
+      "detail": "IT之家 8 月 27 日消息，亚马逊发文，宣布将于 9 月 30 日关闭旗下已有 21 年历史的众包平台 Mechanical Turk（MTurk）。 公开信息显示，Mechanical Turk 于 2005 年上线，主要帮助各大企业雇佣全球各地的工作者进行图片标注、内容审核、去除重复数据、问卷调查以及语音转录等…",
+      "source": "IT之家",
+      "date": "08-28",
+      "url": "https://www.ithome.com/0/995/291.htm",
+      "hot": false
+    },
+    {
+      "category": "模型与产品",
+      "title": "OpenAI「亲儿子」反水，认中国模型做「赛博义父」",
+      "summary": "美国的 AI 产品，由中国模型预制 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "detail": "美国的 AI 产品，由中国模型预制 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": "爱范儿",
+      "date": "08-28",
+      "url": "https://www.ifanr.com/1676629?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "hot": false
+    },
+    {
+      "category": "模型与产品",
+      "title": "派早报：Apple 调整妙控键盘的键帽符号、闪迪推出宝可梦纪念款产品等",
+      "summary": "OpenAI 发布 ChatGPT Admin 插件、Commodore 推出《赛博朋克 2077》主题复古电脑等。 查看全文",
+      "detail": "OpenAI 发布 ChatGPT Admin 插件、Commodore 推出《赛博朋克 2077》主题复古电脑等。 查看全文",
+      "source": "少数派",
+      "date": "08-28",
+      "url": "https://sspai.com/post/113873",
+      "hot": false
+    },
+    {
+      "category": "模型与产品",
+      "title": "rsync 协议与进程模型：generator、sender 与 receiver",
+      "summary": "rsync 的差异同步靠 generator、sender、receiver 三进程流水线。本文对照 3.4.4 源码讲文件列表、token 字节流与强校验协商…",
+      "detail": "rsync 的差异同步靠 generator、sender、receiver 三进程流水线。本文对照 3.4.4 源码讲文件列表、token 字节流与强校验协商，并用改 1 字节的实测对比 delta",
+      "source": "掘金",
+      "date": "08-28",
+      "url": "https://juejin.cn/post/7678618274795405363",
+      "hot": false
+    },
+    {
+      "category": "模型与产品",
+      "title": "别把豆包当聊天用了，现在的豆包和以前不一样了",
+      "summary": "豆包算是全民 AI 应用了，上班族、老人、小孩，手机里基本人手一个。我很早就给爸妈装上了，他们用得特别顺手，用他们的话说，豆包正好用，什么都懂。",
+      "detail": "豆包算是全民 AI 应用了，上班族、老人、小孩，手机里基本人手一个。我很早就给爸妈装上了，他们用得特别顺手，用他们的话说，豆包正好用，什么都懂。",
+      "source": "掘金",
+      "date": "08-28",
+      "url": "https://juejin.cn/post/7678607362014789686",
+      "hot": false
+    },
+    {
+      "category": "模型与产品",
+      "title": "解密Prompt系列72. 多模态大模型进化史：从\"翻译官\"到\"原生双语大脑\"",
+      "summary": "这一章我们从多模态模型的架构演进，动态分辨率输入、多模态位置编码和训练策略等三大技术难题入手，聊聊多模态能力飞跃背后的技术演变。",
+      "detail": "这一章我们从多模态模型的架构演进，动态分辨率输入、多模态位置编码和训练策略等三大技术难题入手，聊聊多模态能力飞跃背后的技术演变。",
+      "source": "掘金",
+      "date": "08-28",
+      "url": "https://juejin.cn/post/7678577086287839266",
+      "hot": false
+    },
+    {
+      "category": "模型与产品",
+      "title": "ZGI 记忆隔离：多人共用不串号",
+      "summary": "同一智能体服务多人时，长期记忆需要绑定明确的用户范围。ZGI Agent Memory 使用命名 Slot 保存有限内容，并按账户或终端用户标识读写，降低偏好、…",
+      "detail": "同一智能体服务多人时，长期记忆需要绑定明确的用户范围。ZGI Agent Memory 使用命名 Slot 保存有限内容，并按账户或终端用户标识读写，降低偏好、项目背景和长期指令交叉复用的风险。",
+      "source": "掘金",
+      "date": "08-28",
+      "url": "https://juejin.cn/post/7678556373495447595",
+      "hot": false
+    },
+    {
+      "category": "模型与产品",
+      "title": "黄仁勋点透的 AI 真相：能实现你知道但做不到的，却实现不了你不知道的",
+      "summary": "最近做一个 GEO 项目，我被 AI 的执行力彻底震撼到了。 项目里要搭 Agent 架构、做容器编排、搞运维部署 —— 这些我以前只懂概念原理，从来没亲手落地…",
+      "detail": "最近做一个 GEO 项目，我被 AI 的执行力彻底震撼到了。 项目里要搭 Agent 架构、做容器编排、搞运维部署 —— 这些我以前只懂概念原理，从来没亲手落地过。按以前的节奏，光是啃文档、找 Bug",
+      "source": "掘金",
+      "date": "08-28",
+      "url": "https://juejin.cn/post/7678586059051892763",
+      "hot": false
+    },
+    {
+      "category": "游戏AI",
+      "title": "《GTA 6》公开 26 分钟实机玩法，这个游戏真值得等 13 年",
+      "summary": "《GTA 6》公开 26 分钟实机玩法，引发全球玩家热议。",
+      "detail": "《GTA 6》公开 26 分钟实机玩法视频，展示开放世界细节与物理交互，该事件获多个来源交叉报道，被视为游戏行业年度重磅事件。",
+      "source": "爱范儿",
+      "date": "08-28",
+      "url": "https://www.ifanr.com/1677186?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "hot": true
+    },
+    {
+      "category": "游戏AI",
+      "title": "《英雄联盟》2026 德玛西亚杯赛事信息公布：跃升为国际邀请赛，创新引入教练语音沟通功能",
+      "summary": "《英雄联盟》德玛西亚杯升级为国际邀请赛，引入教练语音沟通。",
+      "detail": "2026 德玛西亚杯赛事信息公布，赛事跃升为国际邀请赛，并创新引入教练语音沟通功能，提升竞技策略透明度与观赛体验。",
+      "source": "IT之家",
+      "date": "08-28",
+      "url": "https://www.ithome.com/0/995/347.htm",
+      "hot": false
+    },
+    {
+      "category": "游戏AI",
+      "title": "米哈游新作《源初之结》首曝：多人写实共斗，东西方神话巨兽齐聚",
+      "summary": "米哈游新作《源初之结》首曝，多人写实共斗玩法。",
+      "detail": "米哈游在科隆展首曝新作《源初之结》，主打多人写实共斗，融合东西方神话巨兽，展现其拓展动作游戏品类的野心。",
+      "source": "游戏陀螺",
+      "date": "08-28",
+      "url": "https://www.youxituoluo.com/534827.html",
+      "hot": false
+    },
+    {
+      "category": "游戏AI",
+      "title": "网易《无限大》定档1月15日，首曝“重霄”都市地图融合杭州与上海地标",
+      "summary": "网易《无限大》定档 1 月 15 日，首曝“重霄”都市地图。",
+      "detail": "网易《无限大》宣布定档 1 月 15 日，首次曝光“重霄”都市地图，融合杭州与上海地标，开放世界玩法备受期待。",
+      "source": "游戏陀螺",
+      "date": "08-28",
+      "url": "https://www.youxituoluo.com/534826.html",
+      "hot": false
+    },
+    {
+      "category": "游戏AI",
+      "title": "科隆游戏展 2026：米哈游出动作游戏，杰洛特又要回来了",
+      "summary": "科隆游戏展 2026：米哈游出动作游戏，杰洛特回归。",
+      "detail": "科隆游戏展 2026 上，米哈游公布新动作游戏，同时《巫师》系列主角杰洛特确认回归，多款大作亮相引发关注。",
+      "source": "爱范儿",
+      "date": "08-28",
+      "url": "https://www.ifanr.com/1676805?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "hot": false
+    },
+    {
+      "category": "游戏AI",
+      "title": "《巫师 3：重制版》正式公开：科隆游戏展 2026 消息汇总",
+      "summary": "《巫师 3：重制版》正式公开，科隆展消息汇总。",
+      "detail": "《巫师 3：重制版》在科隆游戏展 2026 正式公开，采用全新引擎重制，画面与玩法全面升级，成为展会焦点之一。",
+      "source": "少数派",
+      "date": "08-28",
+      "url": "https://sspai.com/post/113851",
+      "hot": false
+    },
+    {
+      "category": "游戏AI",
+      "title": "雷蛇幻彩基座 V3 头戴式耳机支架发布：支持无缝耳机检测、7.1 环绕立体声，699 元",
+      "summary": "IT之家 8 月 28 日消息，雷蛇昨晚发布了幻彩基座 V3 头戴式耳机支架， 售价 699 元 。 IT之家获悉，这款耳机支架支持智能感应功能，拿起耳机即可让…",
+      "detail": "IT之家 8 月 28 日消息，雷蛇昨晚发布了幻彩基座 V3 头戴式耳机支架， 售价 699 元 。 IT之家获悉，这款耳机支架支持智能感应功能，拿起耳机即可让雷蛇雷云加载自定义配置文件，自动切换音频、灯效、麦克风输入与游戏启动项，全程无需手动操作；放下耳机后，各项设置自动还原。 幻彩基座 V3 配备 12 个独立可控…",
+      "source": "IT之家",
+      "date": "08-28",
+      "url": "https://www.ithome.com/0/995/356.htm",
+      "hot": false
+    },
+    {
+      "category": "游戏AI",
+      "title": "微软 1990 年代最大包装“补丁”：一张红贴纸解决《俄罗斯方块》游戏授权不确定问题",
+      "summary": "IT之家 8 月 28 日消息，科技媒体 Windows Latest 昨日（8 月 27 日）发布博文，报道称微软资深工程师 Raymond Chen 回顾称…",
+      "detail": "IT之家 8 月 28 日消息，科技媒体 Windows Latest 昨日（8 月 27 日）发布博文，报道称微软资深工程师 Raymond Chen 回顾称，1990 年代第一代 Microsoft Entertainment Pack 发售前， 微软尚未完成《 俄罗斯方块》 授权，因此盒面未印游戏名称或截图，只预…",
+      "source": "IT之家",
+      "date": "08-28",
+      "url": "https://www.ithome.com/0/995/355.htm",
+      "hot": false
+    },
+    {
+      "category": "游戏AI",
+      "title": "《GTA 6》游戏健身房首曝：先办卡，锻炼可逐步解锁更高重量",
+      "summary": "IT之家 8 月 28 日消息，消息源 @TGGonYT 昨日（8 月 27 日）发布博文，爆料称在《侠盗猎车手 VI》（GTA 6）游戏中，RockStar …",
+      "detail": "IT之家 8 月 28 日消息，消息源 @TGGonYT 昨日（8 月 27 日）发布博文，爆料称在《侠盗猎车手 VI》（GTA 6）游戏中，RockStar 将引入类似《GTA：圣安地列斯》相似的体重和肌肉变化机制。 IT之家曾于昨日报道，玩家操控的杰森和露西娅会因生活方式不同呈现持续性外观变化：进食过多将增加体重，…",
+      "source": "IT之家",
+      "date": "08-28",
+      "url": "https://www.ithome.com/0/995/351.htm",
+      "hot": false
+    },
+    {
+      "category": "游戏AI",
+      "title": "《GTA6》全新加长版实机预告在 Netflix 独家首播",
+      "summary": "IT之家 8 月 28 日消息，Rockstar Games 于北京时间今日（8 月 28 日）凌晨 3 点在 Netflix 平台独家首播了《GTA6》全新加…",
+      "detail": "IT之家 8 月 28 日消息，Rockstar Games 于北京时间今日（8 月 28 日）凌晨 3 点在 Netflix 平台独家首播了《GTA6》全新加长版实机预告《 GTA 6：分量十足的一瞥 》，以下为该预告片的公开宣传短片： 根据 Rockstar Games 官方的说法，该预告片将于美国东部时间 8 月…",
+      "source": "IT之家",
+      "date": "08-28",
+      "url": "https://www.ithome.com/0/995/331.htm",
+      "hot": false
+    },
+    {
+      "category": "游戏AI",
+      "title": "Epic 喜加二：《Breathedge》《Rival Stars Horse Racing》",
+      "summary": "IT之家 8 月 27 日消息，Epic 本周送出的游戏是《Breathedge》，《Rival Stars Horse Racing : Desktop Ed…",
+      "detail": "IT之家 8 月 27 日消息，Epic 本周送出的游戏是《Breathedge》，《Rival Stars Horse Racing : Desktop Edition》，下周送出的游戏是《Alone With You》。 领取链接： 《Breathedge》 ， 《Rival Stars Horse Racing …",
+      "source": "IT之家",
+      "date": "08-28",
+      "url": "https://www.ithome.com/0/995/321.htm",
+      "hot": false
+    },
+    {
+      "category": "游戏AI",
+      "title": "网易《七日世界》主机版海外上线：PS5/Xbox 免费开玩，支持跨平台联机并新增第一人称",
+      "summary": "IT之家 8 月 27 日消息，网易旗下 Starry Studio 开发的免费多人在线怪奇末日生存游戏《七日世界（Once Human）》主机版，于 2026…",
+      "detail": "IT之家 8 月 27 日消息，网易旗下 Starry Studio 开发的免费多人在线怪奇末日生存游戏《七日世界（Once Human）》主机版，于 2026 年 8 月 26 日在海外正式上线。 该消息在科隆游戏展“开幕之夜”上当场宣布，主机版同步在 PlayStation 5、PlayStation 5 Pro、…",
+      "source": "IT之家",
+      "date": "08-28",
+      "url": "https://www.ithome.com/0/995/319.htm",
+      "hot": false
+    },
+    {
+      "category": "游戏AI",
+      "title": "Netflix：《GTA 6：分量十足的一瞥》前瞻预告片完全由 PS5 实机画面录制",
+      "summary": "IT之家 8 月 27 日消息，Netflix 今天（27 日）晚间通过官方新闻稿宣布，即将于北京时间 28 日凌晨 3 时首播的《GTA 6：分量十足的一瞥》…",
+      "detail": "IT之家 8 月 27 日消息，Netflix 今天（27 日）晚间通过官方新闻稿宣布，即将于北京时间 28 日凌晨 3 时首播的《GTA 6：分量十足的一瞥》 全部采用 PlayStation 5 实机游戏画面 ，将呈现 GTA 系列迄今 规模最大、沉浸感最强 的一次进化。 Netflix 非虚构剧集副总裁布兰登 ·…",
+      "source": "IT之家",
+      "date": "08-28",
+      "url": "https://www.ithome.com/0/995/312.htm",
+      "hot": false
+    },
+    {
+      "category": "游戏AI",
+      "title": "曝《极限竞速：地平线 6》PS5 版已推迟，2026 年内无望发售",
+      "summary": "IT之家 8 月 27 日消息，The Verge 记者 Tom Warren 在 X 上透露，微软 Xbox 开放世界竞速游戏《极限竞速：地平线 6》的 PS…",
+      "detail": "IT之家 8 月 27 日消息，The Verge 记者 Tom Warren 在 X 上透露，微软 Xbox 开放世界竞速游戏《极限竞速：地平线 6》的 PS5 版本不太可能在 2026 年内如期发售。 IGN 随后表示其信源也证实了这一消息的准确性。Warren 在回复网友时强调，该游戏最终仍会登陆 PS5 平台，…",
+      "source": "IT之家",
+      "date": "08-28",
+      "url": "https://www.ithome.com/0/995/311.htm",
+      "hot": false
+    },
+    {
+      "category": "游戏AI",
+      "title": "腾讯《王者万象棋》定档 9 月 10 日上线，《王者荣耀》推出万象棋 · 迷你战联动玩法",
+      "summary": "IT之家 8 月 27 日消息， 腾讯《王者荣耀》IP 衍生自走棋游戏《王者万象棋》正式宣布定档 2026 年 9 月 10 日全平台上线 ，支持 iOS、安卓…",
+      "detail": "IT之家 8 月 27 日消息， 腾讯《王者荣耀》IP 衍生自走棋游戏《王者万象棋》正式宣布定档 2026 年 9 月 10 日全平台上线 ，支持 iOS、安卓、鸿蒙、桌面模拟器，支持多端数据互通。 IT之家注意到，《王者荣耀》官方今日宣布推出《王者万象棋》联动玩法 —— 万象棋 · 迷你战 。 据介绍，玩家在玩法活动…",
+      "source": "IT之家",
+      "date": "08-28",
+      "url": "https://www.ithome.com/0/995/302.htm",
+      "hot": false
+    },
+    {
+      "category": "游戏AI",
+      "title": "网易《逆水寒：新世界》4.1.3 版本更新：全新场景【兰沧寨】、玩法【菠萝农场】上线",
+      "summary": "IT之家 8 月 27 日消息，网易《逆水寒：新世界》手游将迎来 4.1.3 版本更新 ，将有大量更新内容和海量福利。 为保证服务质量和服务器的稳定运行，《逆水…",
+      "detail": "IT之家 8 月 27 日消息，网易《逆水寒：新世界》手游将迎来 4.1.3 版本更新 ，将有大量更新内容和海量福利。 为保证服务质量和服务器的稳定运行，《逆水寒：新世界》手游将于 2026 年 8 月 28 日早 4:55 停机 进行维护工作，预计维护到上午 10:00。维护结束后，登录游戏可在主界面领取更新奖励： …",
+      "source": "IT之家",
+      "date": "08-28",
+      "url": "https://www.ithome.com/0/995/299.htm",
+      "hot": false
+    },
+    {
+      "category": "游戏AI",
+      "title": "Epic 喜加一：原价 9 元恐怖游戏《Together After Dark》再度限免",
+      "summary": "IT之家 8 月 27 日消息，开发商 ALMNHALI 宣布旗下心理恐怖游戏《Together After Dark》在 Epic 游戏商城再度开启限时免费“…",
+      "detail": "IT之家 8 月 27 日消息，开发商 ALMNHALI 宣布旗下心理恐怖游戏《Together After Dark》在 Epic 游戏商城再度开启限时免费“喜加一”领取活动，活动将持续至北京时间 9 月 2 日，游戏在国区定价为 9 元，IT之家附游戏商品页（ https://store.epicgames.com…",
+      "source": "IT之家",
+      "date": "08-28",
+      "url": "https://www.ithome.com/0/995/294.htm",
+      "hot": false
+    },
+    {
+      "category": "游戏AI",
+      "title": "启境 GX7 阔五座 SUV 内饰亮点公布：首搭华为鸿蒙座舱 6，配备同级最大 88 英寸抬头显示",
+      "summary": "IT之家 8 月 27 日消息，启境汽车官方公布了启境 GX7 阔五座 SUV 的内饰亮点，新车首搭华为鸿蒙座舱 HarmonySpace 6，号称“科技大平层…",
+      "detail": "IT之家 8 月 27 日消息，启境汽车官方公布了启境 GX7 阔五座 SUV 的内饰亮点，新车首搭华为鸿蒙座舱 HarmonySpace 6，号称“科技大平层”。 据介绍，启境 GX7 内置全新主题小紫貂「奇奇」，可以在车主开车、听音乐、打电话、充电时陪伴左右；后排支持儿童睡眠提醒、儿童守卫、儿童影像等功能，可提醒开…",
+      "source": "IT之家",
+      "date": "08-28",
+      "url": "https://www.ithome.com/0/995/290.htm",
+      "hot": false
+    },
+    {
+      "category": "机器人具身智能",
+      "title": "一年卖出 3 万台后，极壳将在 IFA 发布下一代外骨骼",
+      "summary": "极壳将在 IFA 发布下一代外骨骼，年销 3 万台。",
+      "detail": "极壳宣布将在 IFA 发布下一代外骨骼产品，此前已实现年销 3 万台，新品类聚焦消费级助力场景，拓展可穿戴机器人市场。",
+      "source": "极客公园",
+      "date": "08-28",
+      "url": "http://www.geekpark.net/news/369478",
+      "hot": false
+    },
+    {
+      "category": "机器人具身智能",
+      "title": "Hugging Face 推出新款鸭形机器人：能捡东西、拥有独特音色，399 美元",
+      "summary": "Hugging Face 推出鸭形机器人，售价 399 美元。",
+      "detail": "Hugging Face 推出新款鸭形机器人，具备捡拾物品能力与独特音色，售价 399 美元，主打教育与娱乐场景，降低机器人入门门槛。",
+      "source": "IT之家",
+      "date": "08-28",
+      "url": "https://www.ithome.com/0/995/306.htm",
+      "hot": false
+    },
+    {
+      "category": "机器人具身智能",
+      "title": "机器人运动会散场后，自变量给机器人建了一座「虚拟训练场」",
+      "summary": "自变量为机器人建虚拟训练场，加速具身智能迭代。",
+      "detail": "机器人运动会后，自变量公司为机器人构建“虚拟训练场”，通过仿真环境加速具身智能模型训练与验证，降低物理测试成本。",
+      "source": "爱范儿",
+      "date": "08-28",
+      "url": "https://www.ifanr.com/1677048?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "hot": false
+    },
+    {
+      "category": "机器人具身智能",
+      "title": "智元机器人「奥运」首秀封神，戴着工牌狂揽 18 枚金牌",
+      "summary": "智元机器人在“奥运”首秀中狂揽 18 枚金牌。",
+      "detail": "智元机器人在机器人运动会首秀中表现亮眼，佩戴工牌参与多项赛事并斩获 18 枚金牌，展示其运动控制与具身智能技术实力。",
+      "source": "爱范儿",
+      "date": "08-28",
+      "url": "https://www.ifanr.com/1676970?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "hot": false
+    },
+    {
+      "category": "机器人具身智能",
+      "title": "具身新贵昆仑行斩获 WorldArena单项冠军全球亚军，世界模型全面领先",
+      "summary": "昆仑行斩获 WorldArena 单项冠军，世界模型领先。",
+      "detail": "具身智能新贵昆仑行在 WorldArena 赛事中获单项冠军与全球亚军，其世界模型在复杂环境理解与决策方面表现全面领先。",
+      "source": "雷科技",
+      "date": "08-28",
+      "url": "https://www.leiphone.com/category/industrynews/gAKPpkpq87I5Oo3d.html",
+      "hot": false
+    },
+    {
+      "category": "机器人具身智能",
+      "title": "独家 | 乐聚发布垂域具身模型：一倍工业提效，两项榜单第一",
+      "summary": "乐聚发布垂域具身模型，工业提效一倍。",
+      "detail": "乐聚发布垂域具身模型，在工业场景实现一倍提效，并在两项行业榜单中排名第一，推动具身智能在制造业落地。",
+      "source": "雷科技",
+      "date": "08-28",
+      "url": "https://www.leiphone.com/category/industrynews/s4P2kDrMcM1yfSYw.html",
+      "hot": false
+    },
+    {
+      "category": "机器人具身智能",
+      "title": "宇树宣布无偿赞助“天才少年”：特别优秀的不设限",
+      "summary": "IT之家 8 月 28 日消息，8 月 27 日晚间，宇树科技发文称，公司承诺每年将无偿赞助一部分“天才少年”。每个热爱科技的同学，都可以直接发送项目邮件申请。…",
+      "detail": "IT之家 8 月 28 日消息，8 月 27 日晚间，宇树科技发文称，公司承诺每年将无偿赞助一部分“天才少年”。每个热爱科技的同学，都可以直接发送项目邮件申请。 申请要求包括： 高中到硕士研究生毕业前；完全过程导向，不结果导向（尽可能认真完成项目就好）； 项目内容完全不设限，只要你真敢想真敢做：芯片制造、AGI、超微机…",
+      "source": "IT之家",
+      "date": "08-28",
+      "url": "https://www.ithome.com/0/995/344.htm",
+      "hot": false
+    },
+    {
+      "category": "机器人具身智能",
+      "title": "我国首版全国几何基准影像成果发布，定位精度提升 1 倍以上",
+      "summary": "IT之家 8 月 28 日消息，据自然资源部官方公众号，在 8 月 27 日自然资源部召开的例行新闻发布会上，我国首版全国几何基准影像成果正式发布。该项成果是自…",
+      "detail": "IT之家 8 月 28 日消息，据自然资源部官方公众号，在 8 月 27 日自然资源部召开的例行新闻发布会上，我国首版全国几何基准影像成果正式发布。该项成果是自然资源部积极服务数字中国建设、推动测绘地理信息事业转型升级的重大标志性成果，也是面向社会服务的测绘地理信息新型公共产品。 IT之家从官方介绍获悉，该项成果由自然…",
+      "source": "IT之家",
+      "date": "08-28",
+      "url": "https://www.ithome.com/0/995/343.htm",
+      "hot": false
+    },
+    {
+      "category": "机器人具身智能",
+      "title": "全球供应链培训已超 10.8 万人，苹果在越南落地首个教育中心",
+      "summary": "IT之家 8 月 28 日消息，科技媒体 MacRumors 昨日（8 月 27 日）发布博文，报道称苹果公司宣布在越南河内建立首个“苹果教育中心”， 为组装 …",
+      "detail": "IT之家 8 月 28 日消息，科技媒体 MacRumors 昨日（8 月 27 日）发布博文，报道称苹果公司宣布在越南河内建立首个“苹果教育中心”， 为组装 Mac、iPhone 和 Apple Vision Pro 等核心产品的当地供应链员工提供专业技能培训。 这是其在越南的首个同类项目，将与河内科技大学（HUST…",
+      "source": "IT之家",
+      "date": "08-28",
+      "url": "https://www.ithome.com/0/995/340.htm",
+      "hot": false
+    },
+    {
+      "category": "机器人具身智能",
+      "title": "宝马新世代车型搭载新型车门：下车时其他车辆接近即自动上锁，源头阻止“开门杀”",
+      "summary": "IT之家 8 月 27 日消息，据外媒 BMW Blog 今天（27 日）报道，宝马新世代车型将标配更多主动安全功能，量产版新世代 iX3 将率先搭载，随后扩展…",
+      "detail": "IT之家 8 月 27 日消息，据外媒 BMW Blog 今天（27 日）报道，宝马新世代车型将标配更多主动安全功能，量产版新世代 iX3 将率先搭载，随后扩展到 i3、X5 和 7 系。 此次最值得注意的变化，是开门预警终于从“提醒驾驶员”升级到“真正阻止危险开门”。过去这套系统只能亮灯、发出提示音，新版本会利用车侧…",
+      "source": "IT之家",
+      "date": "08-28",
+      "url": "https://www.ithome.com/0/995/323.htm",
+      "hot": false
+    },
+    {
+      "category": "机器人具身智能",
+      "title": "高通 Anshuman Saxena：基于我们的 SoC 平台，可构建 L3 级解决方案",
+      "summary": "IT之家 8 月 27 日消息，高通技术公司副总裁兼 ADAS（高级驾驶辅助系统）和机器人业务总经理 Anshuman Saxena 日前接受了IT之家等媒体采…",
+      "detail": "IT之家 8 月 27 日消息，高通技术公司副总裁兼 ADAS（高级驾驶辅助系统）和机器人业务总经理 Anshuman Saxena 日前接受了IT之家等媒体采访，谈到关于 L3 等级自动驾驶的相关话题。 高通的 L2+ 目前已经量产，接下来对于 L3 市场的看法、产品策略还有时间计划是怎样的？比如，从明年开始，是否在…",
+      "source": "IT之家",
+      "date": "08-28",
+      "url": "https://www.ithome.com/0/995/295.htm",
+      "hot": false
+    },
+    {
+      "category": "机器人具身智能",
+      "title": "摩根士丹利看好A股后续表现",
+      "summary": "摩根士丹利在获利了结部分港股仓位后，现在将关注点转向A股。该行策略师认为，中国股市后续仍有上涨空间。摩根士丹利策略师Laura Wang、Chloe Liu和V…",
+      "detail": "摩根士丹利在获利了结部分港股仓位后，现在将关注点转向A股。该行策略师认为，中国股市后续仍有上涨空间。摩根士丹利策略师Laura Wang、Chloe Liu和Vicky Wu在报告中表示，转向A股的原因包括全球市场趋于稳定、AI超级周期重新积聚动能，以及包括存储芯片巨头长鑫科技和人形机器人制造商宇树科技在内的大型IPO…",
+      "source": "36氪快讯",
+      "date": "08-28",
+      "url": "https://www.36kr.com/newsflashes/3958406315359624",
+      "hot": false
+    },
+    {
+      "category": "机器人具身智能",
+      "title": "00后跨境卖家自救，做了一款AI放大镜",
+      "summary": "没毕业的在校生，拿着5000万估值杀进AI硬件赛道。 作者丨 陈玘凡 编辑丨吴优 两岁半的小宝宝攥着圆乎乎的放大镜，凑到地面的蚂蚁跟前按下快门。镜片边框的小孔闪…",
+      "detail": "没毕业的在校生，拿着5000万估值杀进AI硬件赛道。 作者丨 陈玘凡 编辑丨吴优 两岁半的小宝宝攥着圆乎乎的放大镜，凑到地面的蚂蚁跟前按下快门。镜片边框的小孔闪了一下，软乎乎的语音随即响起，“宝宝，这是蚂蚁......”小朋友盯着虫子愣了两秒，突然笑得前仰后合。 03 年出生的欧阳王子往那边看了一眼，那一瞬间他突然觉得…",
+      "source": "雷科技",
+      "date": "08-28",
+      "url": "https://www.leiphone.com/category/weiwu/L0uTNvgh6p0tIHZR.html",
+      "hot": false
+    },
+    {
+      "category": "机器人具身智能",
+      "title": "追觅洗地机欧洲市场营收增长超50%，多国市场份额第一",
+      "summary": "近年来，中国清洁电器品牌加速进入欧洲市场，市场竞争也从价格比拼逐步转向技术、品质与本地化能力的综合较量。2026年上半年，追觅洗地机欧洲区域营收同比增长超过50…",
+      "detail": "近年来，中国清洁电器品牌加速进入欧洲市场，市场竞争也从价格比拼逐步转向技术、品质与本地化能力的综合较量。2026年上半年，追觅洗地机欧洲区域营收同比增长超过50%，并在德国、意大利、瑞士、波兰等多个欧洲国家取得市场份额第一。 波兰是追觅洗地机高效切入欧洲市场的代表。自2024年底进入当地市场后，追觅洗地机仅用半年时间便…",
+      "source": "雷科技",
+      "date": "08-28",
+      "url": "https://www.leiphone.com/category/industrynews/vM2lMKhmqGQ1X7nH.html",
+      "hot": false
+    },
+    {
+      "category": "机器人具身智能",
+      "title": "无人配送下半场：三大派系对决，“真无图”改写行业规则",
+      "summary": "走过数年的市场培育与规模化探索，无人配送行业正在迈入效率优先、商业价值兑现的竞争下半场。 行业发展初期，赛道处于跑马圈地的扩张期，竞争逻辑简单粗放。市场普遍以无…",
+      "detail": "走过数年的市场培育与规模化探索，无人配送行业正在迈入效率优先、商业价值兑现的竞争下半场。 行业发展初期，赛道处于跑马圈地的扩张期，竞争逻辑简单粗放。市场普遍以无人车投放数量、试点城市覆盖范围，作为衡量企业实力的核心标尺。但随着行业迈入商业化深水区，市场考验变得更加务实：无人车能否稳定高频履约、长期常态化运营？新车从进场…",
+      "source": "雷科技",
+      "date": "08-28",
+      "url": "https://www.leiphone.com/category/industrynews/BK4ChhYFZWiKVLry.html",
+      "hot": false
+    },
+    {
+      "category": "行业政策",
+      "title": "OpenAI、微软、谷歌等 116 家公司发联名信，呼吁高度重视 AI 时代的网络安全",
+      "summary": "OpenAI、微软、谷歌等 116 家公司联名呼吁重视 AI 网络安全。",
+      "detail": "OpenAI、微软、谷歌等 116 家公司发布联名信，呼吁全球高度重视 AI 时代的网络安全风险，推动建立跨行业协作与监管框架。",
+      "source": "IT之家",
+      "date": "08-28",
+      "url": "https://www.ithome.com/0/995/346.htm",
+      "hot": false
+    },
+    {
+      "category": "行业政策",
+      "title": "规避反垄断审查，消息称英伟达暂停与多家 AI 公司的收益分成协议",
+      "summary": "英伟达暂停与多家 AI 公司的收益分成协议，规避反垄断审查。",
+      "detail": "消息称英伟达已暂停与多家 AI 公司的收益分成协议，以规避反垄断审查风险，此举可能影响其 AI 生态商业模式。",
+      "source": "IT之家",
+      "date": "08-28",
+      "url": "https://www.ithome.com/0/995/341.htm",
+      "hot": false
+    },
+    {
+      "category": "行业政策",
+      "title": "谷歌出手应对 AI“吃内存”，将为安卓 App 内存占用等指标设立新门槛",
+      "summary": "谷歌为安卓 App 内存占用设立新门槛，应对 AI 内存压力。",
+      "detail": "谷歌出手应对 AI 应用“吃内存”问题，将为安卓 App 内存占用等指标设立新门槛，推动开发者优化性能，保障系统流畅度。",
+      "source": "IT之家",
+      "date": "08-28",
+      "url": "https://www.ithome.com/0/995/320.htm",
+      "hot": false
+    },
+    {
+      "category": "行业政策",
+      "title": "曝马斯克、黄仁勋、奥尔特曼将共同出席下周 G20 科技部长级会议",
+      "summary": "马斯克、黄仁勋、奥尔特曼将共同出席 G20 科技部长会议。",
+      "detail": "曝马斯克、黄仁勋、奥尔特曼将共同出席下周 G20 科技部长级会议，聚焦 AI 治理与算力合作，或成全球 AI 政策风向标。",
+      "source": "IT之家",
+      "date": "08-28",
+      "url": "https://www.ithome.com/0/995/301.htm",
+      "hot": false
+    },
+    {
+      "category": "行业政策",
+      "title": "比尔·盖茨：中美需要合作应对AI风险",
+      "summary": "比尔·盖茨：中美需要合作应对 AI 风险。",
+      "detail": "比尔·盖茨公开表示，中美两国需要合作应对 AI 带来的风险，强调国际协作对 AI 安全与治理的重要性。",
+      "source": "36氪快讯",
+      "date": "08-28",
+      "url": "https://www.36kr.com/newsflashes/3958405361482882",
+      "hot": false
+    },
+    {
+      "category": "行业政策",
+      "title": "中汽协倡议：坚决抵制非理性竞争，切实防范“浮躁”心态，杜绝“伪创新”",
+      "summary": "中汽协倡议抵制非理性竞争，杜绝“伪创新”。",
+      "detail": "中汽协发布倡议，坚决抵制非理性竞争，防范“浮躁”心态，杜绝“伪创新”，引导行业回归技术研发与高质量发展。",
+      "source": "IT之家",
+      "date": "08-28",
+      "url": "https://www.ithome.com/0/995/322.htm",
+      "hot": false
+    },
+    {
+      "category": "行业政策",
+      "title": "影响了两代人后，Meta 被判赔 180 亿美元",
+      "summary": "作者｜桦林舞王 编辑｜靖宇 1998 年，美国 46 个州的检察长联手起诉四大烟草巨头，最终以 2060 亿美元的天价和解收场。 那场诉讼不仅让烟草公司付出了巨…",
+      "detail": "作者｜桦林舞王 编辑｜靖宇 1998 年，美国 46 个州的检察长联手起诉四大烟草巨头，最终以 2060 亿美元的天价和解收场。 那场诉讼不仅让烟草公司付出了巨额赔偿，更从根本上改变了一个行业的运行规则——禁止向未成年人投放广告、禁止用卡通形象推销香烟、在产品包装上强制印刷健康警告。此后，美国的吸烟率几乎减半。 28 …",
+      "source": "极客公园",
+      "date": "08-28",
+      "url": "http://www.geekpark.net/news/369463",
+      "hot": false
+    },
+    {
+      "category": "行业政策",
+      "title": "从「告警找人」到「Agent 先接手」，「古茗」如何用 AI Agent 重构万店运维？",
+      "summary": "AI to B，要真的能「救火」。 去年年底的一个深夜，古茗科技集团运维负责人刘星光再次被手机震动惊醒——屏幕上跳动着上百条数据库告警短信。 「这不是什么意外。…",
+      "detail": "AI to B，要真的能「救火」。 去年年底的一个深夜，古茗科技集团运维负责人刘星光再次被手机震动惊醒——屏幕上跳动着上百条数据库告警短信。 「这不是什么意外。」刘星光说，「古茗全国上万家门店，每一杯奶茶的下单、库存调度、会员积分、联名营销，都跑在 100 多个数据库实例上——RDS、Redis、MongoDB、Pol…",
+      "source": "极客公园",
+      "date": "08-28",
+      "url": "http://www.geekpark.net/news/369401",
+      "hot": false
+    },
+    {
+      "category": "行业政策",
+      "title": "离开剪映后创业，她想把一支设计团队装进 AI 工作台",
+      "summary": "头图来源：OJO 官网 极客公园获悉，前剪映中国负责人张琪智已离职创业，创办 AI 产品原型设计工作台 OJO，并于近日完成近亿元首轮融资，由顺为资本、联想创投…",
+      "detail": "头图来源：OJO 官网 极客公园获悉，前剪映中国负责人张琪智已离职创业，创办 AI 产品原型设计工作台 OJO，并于近日完成近亿元首轮融资，由顺为资本、联想创投联合投资，高鹄资本担任独家财务顾问。 这是张琪智离开字节跳动后的第一个创业项目。她于 2017 年加入脸萌担任产品经理，2018 年随团队进入字节，此后长期参与…",
+      "source": "极客公园",
+      "date": "08-28",
+      "url": "http://www.geekpark.net/news/369395",
+      "hot": false
+    },
+    {
+      "category": "行业政策",
+      "title": "从被找到、被用好到被修好，HarmonyOS 7 给出开发者一套新解法",
+      "summary": "原来关注 App 被打开的次数，现在关注的是服务被调用的次数。 作者｜张勇毅 编辑｜靖宇 对应用开发者来讲，一天里有三个时刻经常会想起操作系统：早上看数据。昨天…",
+      "detail": "原来关注 App 被打开的次数，现在关注的是服务被调用的次数。 作者｜张勇毅 编辑｜靖宇 对应用开发者来讲，一天里有三个时刻经常会想起操作系统：早上看数据。昨天的新增还剩多少，七日留存掉到了哪条线，还有那一大批装了就再没打开过的用户——你的图标被留在第四屏，和几十个 App 挤在一起。 下午改代码。一个编译错误卡了半小…",
+      "source": "极客公园",
+      "date": "08-28",
+      "url": "http://www.geekpark.net/news/369356",
+      "hot": false
+    },
+    {
+      "category": "行业政策",
+      "title": "字节AI 产品向豆包集结，Agent 时代第一场巨头战役打响",
+      "summary": "头图来源：视觉中国、ChatGPT 生成 8 月 25 日，字节做了一个大动作：正式发布面向生产力场景的 Agent 产品「豆包工作」。 它可以自主拆解任务、调…",
+      "detail": "头图来源：视觉中国、ChatGPT 生成 8 月 25 日，字节做了一个大动作：正式发布面向生产力场景的 Agent 产品「豆包工作」。 它可以自主拆解任务、调用工具，完成文档、表格、PPT 及多媒体内容制作，并通过虚拟桌面操作电脑和浏览器；接入飞书后，还能调用企业的消息、文档、会议和权限等上下文，进一步完成周报、解决…",
+      "source": "极客公园",
+      "date": "08-28",
+      "url": "http://www.geekpark.net/news/369344",
+      "hot": false
+    },
+    {
+      "category": "行业政策",
+      "title": "《有头有脸的大模型公司，集体搞起「匿名公测」》",
+      "summary": "头图来源：oxalpha.com 最近，海外开发者圈又被一个没有名字的模型刷屏了。 8 月 20 日，OpenRouter 上多了一个叫 Ox Alpha 的模…",
+      "detail": "头图来源：oxalpha.com 最近，海外开发者圈又被一个没有名字的模型刷屏了。 8 月 20 日，OpenRouter 上多了一个叫 Ox Alpha 的模型，100 万 token 上下文、支持图片和视频输入、能调用工具、免费。随后，它被接进 OpenCode、Hermes 等编程 Agent。有人拿它修代码，有…",
+      "source": "极客公园",
+      "date": "08-28",
+      "url": "http://www.geekpark.net/news/369324",
+      "hot": false
+    },
+    {
+      "category": "行业政策",
+      "title": "苹果在售最便宜官方配件：第二代抛光布反馈，手感接近 Vision Pro 随附款",
+      "summary": "IT之家 8 月 28 日消息，科技媒体 AppleInsider 昨日（8 月 27 日）发布博文，上手体验了苹果第二代抛光布（ 点此前往苹果官网选购 ）， …",
+      "detail": "IT之家 8 月 28 日消息，科技媒体 AppleInsider 昨日（8 月 27 日）发布博文，上手体验了苹果第二代抛光布（ 点此前往苹果官网选购 ）， 仍为 6.3 英寸（IT之家注：约 16 厘米）×6.3 英寸（约 16 厘米）双层方形布，改用更柔软、较薄的超细纤维式材料。 售价方面，苹果于 2021 年 …",
+      "source": "IT之家",
+      "date": "08-28",
+      "url": "https://www.ithome.com/0/995/345.htm",
+      "hot": false
+    },
+    {
+      "category": "行业政策",
+      "title": "昔日“彩电一哥”康佳宣布主动申请退市，2026 上半年归母净亏损 1.73 亿元",
+      "summary": "IT之家 8 月 28 日消息，昔日“彩电一哥”康佳 8 月 27 日晚发布公告， 以股东会决议方式主动终止公司股票上市 。 康佳公告称，鉴于康佳集团股份有限公…",
+      "detail": "IT之家 8 月 28 日消息，昔日“彩电一哥”康佳 8 月 27 日晚发布公告， 以股东会决议方式主动终止公司股票上市 。 康佳公告称，鉴于康佳集团股份有限公司（以下简称“公司”或“康佳集团”）2025 年度经审计期末净资产为负值， 公司股票已被实施退市风险警示 ，依据《深圳证券交易所股票上市规则》（以下简称《深交所…",
+      "source": "IT之家",
+      "date": "08-28",
+      "url": "https://www.ithome.com/0/995/332.htm",
+      "hot": false
+    },
+    {
+      "category": "行业政策",
+      "title": "华为 MateBook Pro / 14 鸿蒙笔记本通过 OpenHarmony 7.0 Release 认证",
+      "summary": "IT之家 8 月 27 日消息，开源鸿蒙官网显示，华为 MateBook Pro 和华为 MateBook 14 两款鸿蒙笔记本已通过 OpenHarmony …",
+      "detail": "IT之家 8 月 27 日消息，开源鸿蒙官网显示，华为 MateBook Pro 和华为 MateBook 14 两款鸿蒙笔记本已通过 OpenHarmony 7.0 Release 认证， 软件版本号分别是 HAD-W24 7.0.0.105 (SP1C00E100R13P5log) / MNT-W54C 7.0.0…",
+      "source": "IT之家",
+      "date": "08-28",
+      "url": "https://www.ithome.com/0/995/315.htm",
+      "hot": false
+    },
+    {
+      "category": "行业政策",
+      "title": "三星 Galaxy S27 Pro 渲染图曝光：无 S Pen 的小号 Ultra，约 6.6 英寸屏",
+      "summary": "IT之家 8 月 27 日消息，科技媒体 Android Headlines 今日与爆料人 OnLeaks 合作，曝光了三星 Galaxy S27 Pro 的官…",
+      "detail": "IT之家 8 月 27 日消息，科技媒体 Android Headlines 今日与爆料人 OnLeaks 合作，曝光了三星 Galaxy S27 Pro 的官方 CAD 渲染图及关键信息。 据介绍，这款机型将作为 Galaxy S27 系列中的新成员，定位介于标准版与顶配 Ultra 版之间。 根据曝光的 CAD 渲…",
+      "source": "IT之家",
+      "date": "08-28",
+      "url": "https://www.ithome.com/0/995/303.htm",
+      "hot": false
+    },
+    {
+      "category": "行业政策",
+      "title": "城市轨道交通系统适老化国家标准即将实施，聚焦老年人出行需求",
+      "summary": "IT之家 8 月 27 日消息，市场监管总局“市说新语”今天（27 日）发文称，9 月 1 日，《城市轨道交通系统适老化基本设备与设施配置通用技术要求》（GB/…",
+      "detail": "IT之家 8 月 27 日消息，市场监管总局“市说新语”今天（27 日）发文称，9 月 1 日，《城市轨道交通系统适老化基本设备与设施配置通用技术要求》（GB/T 47732—2026）推荐性国家标准正式实施。 IT之家获悉，标准围绕 老年人进站、换乘、候车、乘车、出站 完整出行链条，从多维度对城市轨道适老化设备设施提…",
+      "source": "IT之家",
+      "date": "08-28",
+      "url": "https://www.ithome.com/0/995/287.htm",
+      "hot": false
+    },
+    {
+      "category": "行业政策",
+      "title": "荣耀 HONOR Life FlyClip 3i 耳夹耳机发售：10.8mm 双磁动圈、48 小时综合续航，235 元",
+      "summary": "IT之家 8 月 27 日消息，荣耀 HONOR Life FlyClip 3i 耳夹耳机现已在京东发售，该产品配备 10.8mm 双磁动圈，提供 48 小时综…",
+      "detail": "IT之家 8 月 27 日消息，荣耀 HONOR Life FlyClip 3i 耳夹耳机现已在京东发售，该产品配备 10.8mm 双磁动圈，提供 48 小时综合续航， 定价 235 元 ，部分地区国补后低至 199.75 元。 该耳机提供星云紫、幻夜黑、极光银三种配色，单耳重量 5.2g，机身具备 IP55 级防尘防…",
+      "source": "IT之家",
+      "date": "08-28",
+      "url": "https://www.ithome.com/0/995/278.htm",
+      "hot": false
+    },
+    {
+      "category": "资本与市场",
+      "title": "129 亿美元，英伟达拿下 Hugging Face",
+      "summary": "英伟达 129 亿美元收购 Hugging Face，震动 AI 圈。",
+      "detail": "英伟达宣布以 129 亿美元收购 Hugging Face，整合其模型库与开发者生态，强化 AI 全栈布局，该事件获多个来源交叉报道。",
+      "source": "极客公园",
+      "date": "08-28",
+      "url": "http://www.geekpark.net/news/369458",
+      "hot": true
+    },
+    {
+      "category": "资本与市场",
+      "title": "德明利 2026 年上半年归母净利润 60.17 亿元，同比增长 5201.6%",
+      "summary": "德明利上半年净利 60.17 亿元，同比增长 5201.6%。",
+      "detail": "德明利发布 2026 年上半年财报，归母净利润达 60.17 亿元，同比增长 5201.6%，受益于存储芯片与 AI 算力需求爆发。",
+      "source": "IT之家",
+      "date": "08-28",
+      "url": "https://www.ithome.com/0/995/276.htm",
+      "hot": false
+    },
+    {
+      "category": "资本与市场",
+      "title": "Anthropic曾考虑收购AI芯片初创公司MatX",
+      "summary": "Anthropic 曾考虑收购 AI 芯片初创公司 MatX。",
+      "detail": "据 36 氪消息，Anthropic 曾考虑收购 AI 芯片初创公司 MatX，以强化自研算力能力，减少对英伟达依赖。",
+      "source": "36氪快讯",
+      "date": "08-28",
+      "url": "https://www.36kr.com/newsflashes/3958421953461380",
+      "hot": false
+    },
+    {
+      "category": "资本与市场",
+      "title": "AI算力设施扩张带动需求高增，光通信板块步入业绩兑现期",
+      "summary": "AI 算力扩张带动光通信板块业绩兑现。",
+      "detail": "AI 算力设施扩张带动光通信需求高增，相关板块步入业绩兑现期，多家公司订单与营收显著增长。",
+      "source": "36氪快讯",
+      "date": "08-28",
+      "url": "https://www.36kr.com/newsflashes/3958413097401479",
+      "hot": false
+    },
+    {
+      "category": "资本与市场",
+      "title": "英伟达交出超预期答卷，AI投资下半场仍面临不确定性",
+      "summary": "英伟达交出超预期答卷，AI 投资下半场仍存不确定性。",
+      "detail": "英伟达最新财报超预期，但市场担忧 AI 投资下半场面临不确定性，包括需求增速放缓与竞争加剧。",
+      "source": "36氪快讯",
+      "date": "08-28",
+      "url": "https://www.36kr.com/newsflashes/3958408282111364",
+      "hot": false
+    },
+    {
+      "category": "资本与市场",
+      "title": "AI应用进入重估期，私募衡量赛道长期价值",
+      "summary": "AI 应用进入重估期，私募衡量赛道长期价值。",
+      "detail": "AI 应用板块进入价值重估期，私募机构开始更审慎地衡量赛道长期价值，关注商业化落地与盈利模式。",
+      "source": "36氪快讯",
+      "date": "08-28",
+      "url": "https://www.36kr.com/newsflashes/3958394502904961",
+      "hot": false
+    },
+    {
+      "category": "资本与市场",
+      "title": "MiniMax 违背「祖训」，企业收入暴涨 700%，偷偷变成了「卖铲子」的",
+      "summary": "MiniMax 企业收入暴涨 700%，转型“卖铲子”模式。",
+      "detail": "MiniMax 企业收入同比增长 700%，其业务模式从 C 端转向 B 端，成为 AI 基础设施“卖铲子”的典型代表。",
+      "source": "爱范儿",
+      "date": "08-28",
+      "url": "https://www.ifanr.com/1676874?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "hot": false
+    },
+    {
+      "category": "资本与市场",
+      "title": "蔚来公司捐赠 200 万元，驰援西藏吉隆灾区",
+      "summary": "IT之家 8 月 28 日消息，近日，因尼泊尔一侧发生泥石流灾害，造成西藏日喀则市吉隆县吉隆口岸重大人员伤亡、失联。 灾害发生后，国家防灾减灾救灾委员会、应急管…",
+      "detail": "IT之家 8 月 28 日消息，近日，因尼泊尔一侧发生泥石流灾害，造成西藏日喀则市吉隆县吉隆口岸重大人员伤亡、失联。 灾害发生后，国家防灾减灾救灾委员会、应急管理部启动国家二级救灾应急响应。各方力量正加紧抢险救援，灾情牵动人心。 IT之家获悉，蔚来公司今日宣布，联合蔚来用户公益基金会紧急响应灾情，通过中华慈善总会 捐赠…",
+      "source": "IT之家",
+      "date": "08-28",
+      "url": "https://www.ithome.com/0/995/357.htm",
+      "hot": false
+    },
+    {
+      "category": "资本与市场",
+      "title": "Omdia 报告：2026 年 Q2 东南亚智能手机市场出货量下降 23%，创 2014 年以来最低水平",
+      "summary": "IT之家 8 月 28 日消息，Omdia 最新研究，2026 年第二季度东南亚智能手机市场出货量同比下降 23%，至 1,930 万部， 创 2014 年以来…",
+      "detail": "IT之家 8 月 28 日消息，Omdia 最新研究，2026 年第二季度东南亚智能手机市场出货量同比下降 23%，至 1,930 万部， 创 2014 年以来最低季度出货水平 。尽管出货量大幅下滑，但市场规模表现相对更具韧性，达到 66 亿美元 （IT之家注：现汇率约合 444.7 亿元人民币） ， 平均售价（ASP…",
+      "source": "IT之家",
+      "date": "08-28",
+      "url": "https://www.ithome.com/0/995/354.htm",
+      "hot": false
+    },
+    {
+      "category": "资本与市场",
+      "title": "宝马正式交付第 200 万辆纯电车型，新世代成为增长新动力",
+      "summary": "IT之家 8 月 28 日消息，宝马集团 8 月 27 日宣布，自 2013 年末首款宝马 i3 上市销售以来，宝马已向客户交付 200 万辆纯电动汽车（BEV…",
+      "detail": "IT之家 8 月 28 日消息，宝马集团 8 月 27 日宣布，自 2013 年末首款宝马 i3 上市销售以来，宝马已向客户交付 200 万辆纯电动汽车（BEV）。若计入插电混动车型，2013 年至今，宝马集团在全球范围内合计交付约 350 万辆电气化车型。2026 年上半年，宝马每售出四台汽车，就有一台为电气化车型。…",
+      "source": "IT之家",
+      "date": "08-28",
+      "url": "https://www.ithome.com/0/995/350.htm",
+      "hot": false
+    },
+    {
+      "category": "资本与市场",
+      "title": "腾龙 12-20mm F/2.8 Di III VXD 超广角变焦镜头尼康 Z 卡口版本开售，12690 元",
+      "summary": "IT之家 8 月 28 日消息，腾龙于 7 月 15 日发布了适用于全画幅无反相机索尼 E 卡口和尼康 Z 卡口的大光圈超广角变焦镜头 12-20mm F/2.…",
+      "detail": "IT之家 8 月 28 日消息，腾龙于 7 月 15 日发布了适用于全画幅无反相机索尼 E 卡口和尼康 Z 卡口的大光圈超广角变焦镜头 12-20mm F/2.8 Di III VXD（型号 A084），索尼 E 卡口版本此前已经上市，尼康 Z 卡口版本昨日正式开售， 售价 12690 元 。 据介绍，该镜头光学系统采…",
+      "source": "IT之家",
+      "date": "08-28",
+      "url": "https://www.ithome.com/0/995/349.htm",
+      "hot": false
+    },
+    {
+      "category": "资本与市场",
+      "title": "吉利银河 TT 小订突破 2 万：预售 14.59 万元起，将于 9 月上市",
+      "summary": "IT之家 8 月 28 日消息，吉利银河昨日宣布，吉利银河 TT 小订突破 2 万 ，将于 9 月上市。 官方还宣布，将为用户追加专属权益： 限时 2500 元…",
+      "detail": "IT之家 8 月 28 日消息，吉利银河昨日宣布，吉利银河 TT 小订突破 2 万 ，将于 9 月上市。 官方还宣布，将为用户追加专属权益： 限时 2500 元享价值 5000 元醇红专属内饰（追加开放 540 后驱尊贵 / 640 后驱旗舰，其中橄榄绿 / 晴午蓝车色可选） 预售期下订用户，可赠送价值 298 元天幕…",
+      "source": "IT之家",
+      "date": "08-28",
+      "url": "https://www.ithome.com/0/995/339.htm",
+      "hot": false
+    },
+    {
+      "category": "资本与市场",
+      "title": "北京越野泰钽 700 上市 48 小时订单突破 6859 辆：搭载华为乾崑智驾 ADS 5，焕新价 24.98 万元起",
+      "summary": "IT之家 8 月 27 日消息，北京越野官方今日宣布， 泰钽 700 上市 48 小时订单突破 6859 辆 。 据IT之家此前报道， 在 8 月 25 日晚，…",
+      "detail": "IT之家 8 月 27 日消息，北京越野官方今日宣布， 泰钽 700 上市 48 小时订单突破 6859 辆 。 据IT之家此前报道， 在 8 月 25 日晚，泰钽 700 正式上市，超级焕新价 24.98 万元起 。 豪华版：27.98 万元，超级焕新价 24.98 万元 乾崑旗舰版：32.98 万元，超级焕新价 2…",
+      "source": "IT之家",
+      "date": "08-28",
+      "url": "https://www.ithome.com/0/995/317.htm",
+      "hot": false
+    },
+    {
+      "category": "资本与市场",
+      "title": "告别“四排气”迎来“四电机”，全新宝马 iX5 M 路试谍照曝光",
+      "summary": "IT之家 8 月 27 日消息，英媒 Auto Express 今天公布了一组宝马 iX5 M 的路试谍照，新车计划 2027 年亮相，并将成为宝马未来 纯电高…",
+      "detail": "IT之家 8 月 27 日消息，英媒 Auto Express 今天公布了一组宝马 iX5 M 的路试谍照，新车计划 2027 年亮相，并将成为宝马未来 纯电高性能 SUV 阵容中的旗舰车型 。 相比上一代车型，iX5 M 的动力路线将发生彻底变化，此前的 4.4L 双涡轮增压 V8 发动机、四出排气管将被纯电系统取代…",
+      "source": "IT之家",
+      "date": "08-28",
+      "url": "https://www.ithome.com/0/995/316.htm",
+      "hot": false
+    },
+    {
+      "category": "资本与市场",
+      "title": "意大利为对抗入侵蓝蟹向亚得里亚海投放 15 万只章鱼，为欧洲首批海洋生物防治试点",
+      "summary": "IT之家 8 月 27 日消息，意大利博洛尼亚大学的研究人员本周在亚得里亚海沿岸投放了约 15 万只章鱼（Octopus vulgaris）幼体，以尝试利用该物…",
+      "detail": "IT之家 8 月 27 日消息，意大利博洛尼亚大学的研究人员本周在亚得里亚海沿岸投放了约 15 万只章鱼（Octopus vulgaris）幼体，以尝试利用该物种控制入侵物种 —— 大西洋蓝蟹（Callinectes sapidus）。这是欧洲首批此类试点实验之一。 蓝蟹原产于大西洋，近年在意大利沿海数量激增，威胁渔业…",
+      "source": "IT之家",
+      "date": "08-28",
+      "url": "https://www.ithome.com/0/995/313.htm",
+      "hot": false
+    },
+    {
+      "category": "资本与市场",
+      "title": "2026 暑期档总票房破 119.67 亿超去年，《功夫女足》《八仙！》《欢迎来龙餐馆》暂列前三",
+      "summary": "IT之家 8 月 27 日消息，据猫眼专业版数据，截至 2026 年 8 月 27 日 18 时 32 分， 2026 年暑期档总票房（含预售）突破 119.6…",
+      "detail": "IT之家 8 月 27 日消息，据猫眼专业版数据，截至 2026 年 8 月 27 日 18 时 32 分， 2026 年暑期档总票房（含预售）突破 119.67 亿，超 2025 年暑期档票房成绩 。 截至当前，2026 年暑期档档期票房前 10 名影片分别为《功夫女足》《八仙！》《欢迎来龙餐馆》《蜘蛛侠：崭新之日》…",
+      "source": "IT之家",
+      "date": "08-28",
+      "url": "https://www.ithome.com/0/995/297.htm",
+      "hot": false
+    },
+    {
+      "category": "资本与市场",
+      "title": "本田确认暂不考虑在美国“复活”飞度车型，未来则不排除可能性",
+      "summary": "IT之家 8 月 27 日消息，据外媒 motor1 今天（27 日）报道，美国本田销售主管兰斯 · 沃尔弗在媒体圆桌会议上透露，飞度目前并未进入产品规划，但本…",
+      "detail": "IT之家 8 月 27 日消息，据外媒 motor1 今天（27 日）报道，美国本田销售主管兰斯 · 沃尔弗在媒体圆桌会议上透露，飞度目前并未进入产品规划，但本田也没有彻底关上未来回归的大门。 沃尔弗在谈到飞度是否可能重新进入美国市场时表态，飞度始终是“可以考虑和研究的车型”，本田也在 研究入门级产品阵容的所有可能性 …",
+      "source": "IT之家",
+      "date": "08-28",
+      "url": "https://www.ithome.com/0/995/279.htm",
+      "hot": false
+    },
+    {
+      "category": "资本与市场",
+      "title": "加拿大调整反制关税清单，拟对美国铜线和木炭征收50%关税",
+      "summary": "据加拿大财政部消息，加拿大将对美国产铜线和木炭征50%关税，以替代此前移出反制清单的鱼类和海产品。卡尼政府的目标是使反制关税覆盖的年进口额与美国新一轮关税影响的…",
+      "detail": "据加拿大财政部消息，加拿大将对美国产铜线和木炭征50%关税，以替代此前移出反制清单的鱼类和海产品。卡尼政府的目标是使反制关税覆盖的年进口额与美国新一轮关税影响的规模相匹配，约为200亿美元。美国总统特朗普对加拿大商品征50%关税已于上周六生效，加拿大的反制关税定于9月8日实施。（新浪财经）",
+      "source": "36氪快讯",
+      "date": "08-28",
+      "url": "https://www.36kr.com/newsflashes/3958426155678855",
+      "hot": false
+    }
+  ]
+}
